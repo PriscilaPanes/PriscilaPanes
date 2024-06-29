@@ -6,7 +6,7 @@
 
 I am a stay-at-home mom from Chile who discovered web development and became passionate about it. To me, web development is more than just writing code. It's about creating experiences, solving problems, and bringing ideas to life on the digital canvas. The dynamic nature of this field continually challenges me to learn and grow, which is something I find incredibly fulfilling.
 
-I trained through a bootcamp, and I am currently also learning UX design. Although I do not have previous experience, I am highly motivated to learn and work. As a Web Developer Trainee, my primary goal is to soak up as much knowledge and experience as I can. I am eager to learn from mentors, collaborate with colleagues, and contribute to meaningful projects. Ultimately, I aim to become a skilled and proficient web developer who can make a positive impact in the industry.
+I trained through a bootcamp, and I am currently also learning UX design. Although I do not have previous experience, but i'am highly motivated to learn and work. As a Web Developer Trainee, my primary goal is to soak up as much knowledge and experience as I can. I am eager to learn from mentors, collaborate with colleagues, and contribute to meaningful projects. Ultimately, I aim to become a skilled and proficient web developer who can make a positive impact in the industry.
 
 ## Skills
 
